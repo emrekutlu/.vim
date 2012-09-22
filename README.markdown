@@ -1,9 +1,7 @@
 Clone this repository to your $HOME folder.
 
-<code>
-$ cd<br />
-$ git clone https://github.com/emrekutlu/.vim.git
-</code>
+    $ cd
+    $ git clone https://github.com/emrekutlu/.vim.git
 
 Add this gist (https://gist.github.com/1263895) to your .vimrc file.
 
