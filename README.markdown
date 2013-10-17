@@ -2,6 +2,8 @@ Clone this repository to your $HOME folder.
 
     $ cd
     $ git clone https://github.com/emrekutlu/.vim.git
+    $ git submodule init
+    $ git submodule update
 
 Add this gist (https://gist.github.com/1263895) to your .vimrc file.
 
