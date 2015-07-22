@@ -6,7 +6,7 @@ Clone this repository to your $HOME folder.
     $ git submodule init
     $ git submodule update
 
-Add this gist (https://gist.github.com/1263895) to your .vimrc file.
+.vimrc -> https://github.com/emrekutlu/dotfiles/blob/master/.vimrc
 
 http://github.com/emrekutlu/.vim
 
